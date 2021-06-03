@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act and declaration touching several Acts and ordinances made since the twentieth of April 1653. and before the third of September 1654. and other Acts, &amp;c. At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+            <title>Public General Acts. 1657.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21818</idno><idno type="EEBO-CITATION">99834129_206003</idno>
+  <idno type="VID">206003</idno>
+  <idno type="EEBO-PROQUEST">2264171934</idno>
+  
+            <idno type="STC">Wing E976</idno>
+            <idno type="STC">ESTC R231502</idno>
+            <idno type="PROQUEST">99834129</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834129e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:22g; 2484:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act and declaration touching several Acts and ordinances made since the twentieth of April 1653. and before the third of September 1654. and other Acts, &amp;c. At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+                  <title>Public General Acts. 1657.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament. Proceedings. 1657. aut</author>
+               </titleStmt>
+               <extent>[2], 20, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Hen: Hills and John Field, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf in CSmH copies bears the Commonwealth arms on verso.</note>
+                  <note>On I2r: last word in first line of text: 'day'; first word under initial: 'been'; last word in last full line of text: 'Engagement:'.</note>
+                  <note>Item at reel 1758 identified on film as part of Wing E874 (number cancelled).</note>
+                  <note>Reproduction of the originals in: Union Theological Seminary Library, New York; Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Public General Acts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206003:1"/>
+            <pb facs="tcp:206003:1"/>
+            <p>AN ACT AND DECLARATION Touching several Acts and Ordinances Made since the Twentieth of <hi>April</hi> 1653. and before the Third of <hi>September</hi> 1654. and other ACTS, <hi>&amp;c.</hi>
+            </p>
+            <p>At the Parliament begun at <hi>Westminster</hi> the 17<seg rend="sup">th</seg> day of <hi>September, An. Dom.</hi> 1656.</p>
+            <figure>
+               <figDesc>coat of arms of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by HEN: HILLS and JOHN FIELD, Printers to His Highness the Lord PROTECTOR. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:206003:2"/>
+            <pb n="1" facs="tcp:206003:2"/>
+            <head>AN ACT AND DECLARATION Touching several Acts and Ordinances</head>
+            <head type="sub">
+               <hi>Made since the Twentieth of <hi>April</hi>
+               </hi> 1653. <hi>and before the Third of <hi>September</hi>
+               </hi> 1654. <hi>and other Acts, <hi>&amp;c.</hi>
+               </hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas since the Twentieth day of <hi>April,</hi> One thousand six hundred fifty three, in the great Exigences and Necessities of these Nations, divers Acts and Ordinances have been made without the Consent of the People assembled in Parliament, which is not accord<g ref="char:EOLhyphen"/>ing to the Fundamental Laws of the Nati<g ref="char:EOLhyphen"/>ons, and the Rights of the people, and is not for the future to be drawn into example, yet the Actings thereupon tending to the Settle<g ref="char:EOLhyphen"/>ment of the Estates of several persons and Families, and the peace and quiet of the Na<g ref="char:EOLhyphen"/>tions; Be it Enacted by His Highness the Lord Protector and this present Parliament, And it is hereby Enacted and Declared by the Authority of the same;</p>
+            <p>That one Ordinance made in the year 1653. Entituled, <hi>An Ordinance for Repealing of several Acts and Resolves of Parliament made for, or touch<g ref="char:EOLhyphen"/>ing the Subscribing or Taking the Engagement:</hi>
+            </p>
+            <pb n="2" facs="tcp:206003:3"/>
+            <p> And also one other Ordinance made in the same year 1653. Entituled, <hi>An Ordinance for Set<g ref="char:EOLhyphen"/>ling and confirming of the Manors of <hi>Framlingham</hi> and <hi>Saxted</hi> in the County of <hi>Suffolk,</hi> and the Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments thereunto belonging, devi<g ref="char:EOLhyphen"/>sed by Sir <hi>Robert Hitcham</hi> Knight, and late Serjeant at Law, to charitable Uses:</hi>
+            </p>
+            <p>And one Ordinance also made in the same year 1653. Entituled, <hi>An Ordinance for Relief of persons that have acted in the Service of the Par<g ref="char:EOLhyphen"/>liament:</hi>
+            </p>
+            <p>And also one other Ordinance made in the year 1654. Entituled, <hi>An Ordinance prohibi<g ref="char:EOLhyphen"/>ting Cock-matches:</hi>
+            </p>
+            <p>And also one Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Continu<g ref="char:EOLhyphen"/>ing one Act of Parliament,</hi> Entituled, <hi>An Act for Probate of Wills and Granting Administrations:</hi>
+            </p>
+            <p>And also one other Ordinance made the same year 1654. Entituled, <hi>An Ordinance for Ere<g ref="char:EOLhyphen"/>cting Courts Baron in <hi>Scotland:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Uniting <hi>Scotland</hi> into one Commonwealth with <hi>England:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Doubling upon, and finishing the Sale of Deans, Deans and Chapters Lands, Manors of Rectories, Gleab-lands, <hi>&amp;c.</hi>
+               </hi>
+            </p>
+            <p>And one Ordinance also made in the same year 1654. Entituled, <hi>An Ordinance for Preserva<g ref="char:EOLhyphen"/>tion of the Work of the Great Level of the Fens:</hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance of Explanation touching the Jurisdiction of the Court of Admiralty:</hi>
+            </p>
+            <p>Also one other Ordinance made in the same
+<pb n="3" facs="tcp:206003:3"/> year 1654. Entituled, <hi>An Ordinance for bringing the Publick Revenue of this Commonwealth into one Treasury:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for the further Encouragement of the Adventurers for Lands in <hi>Ireland,</hi> and of the Soldiers and other Planters there.</hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance against Chal<g ref="char:EOLhyphen"/>lenges, Duels, and all Provocations thereunto:</hi>
+            </p>
+            <p>Also one other Ordinance made the same year 1654. Entituled, <hi>An Ordinance Impower<g ref="char:EOLhyphen"/>ing the Commissioners of the Customs, and o<g ref="char:EOLhyphen"/>thers for the better Suppressing of Drunkenness, and Prophane Cursing and Swearing, in persons im<g ref="char:EOLhyphen"/>ployed under them:</hi>
+            </p>
+            <p>Also one Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Indempnity to the English Protestants of the Province of <hi>Mun<g ref="char:EOLhyphen"/>ster</hi> in <hi>Ireland:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for the better Maintenance and Encouragement of Preaching Ministers, and for Uniting of Parishes.</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance to En<g ref="char:EOLhyphen"/>able such Soldiers as served the Commonwealth in the late Wars, to Exercise any Trade:</hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance touching Fines:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for fur<g ref="char:EOLhyphen"/>ther Doubling upon Deans and Chapters Lands:</hi>
+            </p>
+            <p>And also one other Ordinance made the same year 1654. Entituled, <hi>An Ordinance for Ad<g ref="char:EOLhyphen"/>mitting Protestants in <hi>Ireland</hi> to Compound:</hi>
+            </p>
+            <pb n="4" facs="tcp:206003:4"/>
+            <p> And one other Ordinance also made in the same year 1654. Entituled, <hi>An Ordinance for bringing several Branches of the Revenue under the Managing and Government of the Commissioners for the Treasury and Court of Exchequer:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Re<g ref="char:EOLhyphen"/>viving and Continuing an Act of Parliament for Re<g ref="char:EOLhyphen"/>covery and Preservation of many Thousand Acres of Ground in <hi>Norfolk</hi> and <hi>Suffolk,</hi> surrounded by the rage of the Sea:</hi>
+            </p>
+            <p>And one other Ordinance made also in the same year 1654. Entituled, <hi>An Ordinance for the taking an Accompt of the Moneys Received upon the Act for the better Propagation and Preaching of the Gospel in <hi>Wales:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made in the year 1653. Entituled, <hi>An Ordinance touching Bills Signed by the Commissioners of the Navy, to be a Warrant to the Treasurer:</hi>
+            </p>
+            <p>Also one other Ordinance made the same year 1653. Entituled, <hi>An Ordinance for giving <hi>Charls</hi> Viscount <hi>Mansfield</hi> the benefit of the Act of Ge<g ref="char:EOLhyphen"/>neral Pardon and Oblivion:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1653. Entituled, <hi>An Ordinance for Set<g ref="char:EOLhyphen"/>ling Lands of the clear value of 200 l. <hi>per Annum,</hi> upon <hi>Nicholas Lockyer</hi> and his heirs:</hi>
+            </p>
+            <p>Also another Ordinance made in the same year 1653. Entituled, <hi>An Ordinance for Charging the Judges Salaries upon the Customs:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1653. Entituled, <hi>An Ordinance for a Tax on Ale and Beer in <hi>Edenburgh,</hi> and the parts and pendi<g ref="char:EOLhyphen"/>cles thereof:</hi>
+            </p>
+            <p>Also one other Ordinance made in the year
+<pb n="5" facs="tcp:206003:4"/> 1654. Entituled, <hi>An Ordinance for better provision for maimed Soldiers &amp; old widows, and orphans in <hi>Ireland:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for payment of Arrears due to</hi> Colonel <hi>Hewson:</hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Setling the remainder of a Term in a Lease of the Rectory of <hi>Hartland,</hi> in the County of <hi>Devon,</hi> upon Mr. <hi>Iohn Dury.</hi>
+               </hi>
+            </p>
+            <p>Also another Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Satisfacti<g ref="char:EOLhyphen"/>on of several sums of money due to <hi>Daniel Hutchenson</hi> and <hi>Michael Casteel:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance Im<g ref="char:EOLhyphen"/>powering the Commissioners for Managing Estates under Sequestration, to proceed upon an Order of Parliament of the 16<seg rend="sup">th</seg> day of June</hi> 1649. <hi>touching di<g ref="char:EOLhyphen"/>vers Engagers in Yorkshire:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Set<g ref="char:EOLhyphen"/>ling Lands to the value of</hi> 120<hi>l. <hi>per Annum</hi> in <hi>Scotland,</hi> upon <hi>Ioachim Hain</hi> and his heirs:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance touch<g ref="char:EOLhyphen"/>ing the Minster of <hi>York,</hi> and the School called <hi>Peters-School:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for <hi>George Ralegh</hi> and <hi>Henry Clark,</hi> to have the benefit of the Articles given upon the Rendition of <hi>Oxford:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Na<g ref="char:EOLhyphen"/>turalizing <hi>Joachim Hain:</hi>
+               </hi>
+            </p>
+            <p>One other Ordinance also made in the same year 1654. Entituled, <hi>An Ordinance for Ratifica<g ref="char:EOLhyphen"/>tion</hi>
+               <pb n="6" facs="tcp:206003:5"/>
+               <hi>of Grants of Lands in <hi>Scotland</hi> by the Commis<g ref="char:EOLhyphen"/>sioners of Parliament, and satisfaction of some per<g ref="char:EOLhyphen"/>sons to whom Lands in <hi>Scotland</hi> have been given by Order or Vote of Parliament; and for payment of ar<g ref="char:EOLhyphen"/>rears due to</hi> Colonel <hi>Horton:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for set<g ref="char:EOLhyphen"/>ting up Lectures in <hi>Scotland:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made the same year 1654. Entituled, <hi>An Ordinance for alowing of Debts belonging to the University of <hi>Glasgow,</hi> and the Revenues of the same:</hi>
+            </p>
+            <p>Also one other Ordinance made the same year 1654. Entituled, <hi>An Ordinance touching Sa<g ref="char:EOLhyphen"/>laries &amp;c. of Officers in the Exchequer:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Sir <hi>Iohn Wollaston</hi> Knight▪ and the rest of the former Trea<g ref="char:EOLhyphen"/>surers at War, and the Treasurers for Sequestrations and Compositions, to pay money upon Warrant from the Committee for the Army:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Re<g ref="char:EOLhyphen"/>lief of several persons in <hi>Scotland,</hi> upon whom Fines are imposed by the Ordinance of Pardon and Grace to the people of <hi>Scotland:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for payment of</hi> 600 <hi>l. to <hi>Edward Elvins</hi> of the City of <hi>Worcester:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Naturali<g ref="char:EOLhyphen"/>zation of <hi>William Haumer</hi> son of <hi>Thomas Haumer</hi> of <hi>Hau<g ref="char:EOLhyphen"/>mer,</hi> in the County of <hi>Flint,</hi> Baronet:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Sta<g ref="char:EOLhyphen"/>ting the Arrears of</hi> General <hi>Monk for his Service</hi>
+               <pb n="7" facs="tcp:206003:5"/>
+               <hi>done in <hi>Ireland,</hi> and for satisfaction of the same out of Forfeited Lands of the Rebels there:</hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance touching the Arrears of Colonel <hi>Roger Fenwick,</hi> deceased:</hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Setling Lands in <hi>Ireland</hi> on Colonel <hi>Robert Hamond:</hi>
+               </hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for the Grant<g ref="char:EOLhyphen"/>ing unto, and Vesting in the Mayor, Bayliffs and Bur<g ref="char:EOLhyphen"/>gesses of the Town of <hi>Berwick</hi> upon <hi>Tweed</hi> for ever, cer<g ref="char:EOLhyphen"/>tain Lands and Tenements within the Bounds of the said Town, for the perpetual Repair of the Bridge there, and other Benefits of the said Town.</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Uni<g ref="char:EOLhyphen"/>ting the Rectories of <hi>Wymborn St. Giles,</hi> and <hi>Wym<g ref="char:EOLhyphen"/>born All Saints,</hi> in the County of <hi>Dorset,</hi> and to Setle the perpetual Patronage of the Vicarage of <hi>Loaders</hi> upon his Highness, in recompence of his Right of Patro<g ref="char:EOLhyphen"/>nage of the said Rectory of <hi>VVymborn All Saints,</hi> which is hereby Setled upon Sir <hi>Anthony Ashley-Cooper</hi> Baronet, and his heirs:</hi>
+            </p>
+            <p>Also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance touching Al<g ref="char:EOLhyphen"/>lowance of Debts and Incumbrances upon the Estate which was Setled by Order of the Council of State, upon Mistress <hi>Mary Dean,</hi> Relict of General <hi>Dean,</hi> and her Children:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Pay<g ref="char:EOLhyphen"/>ment of</hi> 3473 <hi>l.</hi> 5 <hi>s. to <hi>Francis Thompson</hi> and <hi>Henry Can<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi> in recompence of their Interest in the little Park at <hi>Windsor,</hi> the Kings Meadows and Bushy-Park:</hi>
+            </p>
+            <p>And also one other Ordinance made in the
+<pb n="8" facs="tcp:206003:6"/> same year 1654. Entituled, <hi>An Ordinance for Sa<g ref="char:EOLhyphen"/>tisfaction of the Creditors of <hi>Peter Smart</hi> deceased, out of the Remainder of Deans and Chapters Lands:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Sa<g ref="char:EOLhyphen"/>tisfaction of <hi>Henry Howard</hi> Esq; and the Lady <hi>Ann So<g ref="char:EOLhyphen"/>merset,</hi> for Lands setled by Ordinance of Parliament on Mr. <hi>Hugh Peters:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for ad<g ref="char:EOLhyphen"/>mitting Sir <hi>Francis Wortley</hi> Baronet to the Benefit of the Articles made upon the Rendition of <hi>Ashby de-la. Zouch:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654 Entituled, <hi>An Ordinance for Con<g ref="char:EOLhyphen"/>firmation of the Articles made upon the Surrender of <hi>Barnstaple:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654 Entituled, <hi>An Ordinance for Set<g ref="char:EOLhyphen"/>ling</hi> 100 <hi>l. <hi>per Annum</hi> in <hi>Ireland</hi> upon <hi>Richard Vriel</hi> and <hi>Thomas Crostwait</hi> of <hi>Cockermouth-</hi>Castle in the County of <hi>Cumberland,</hi> in satisfaction of their Losses and faithful Services:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Pay<g ref="char:EOLhyphen"/>ment of</hi> 100 <hi>l. <hi>per Annum</hi> to the Lady <hi>Iane Gorges,</hi> out of the Sixpeny-Writs in Chancery:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Pardoning of <hi>William Blackston</hi> of <hi>Westminster</hi> Esq;</hi>
+            </p>
+            <p>And also one other Ordinance made the same year 1654. Entituled, <hi>An Ordinance appointing Maintenance for Preaching the Gospel in <hi>West-Cowes</hi> in the Isle of <hi>Wight:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Charging the Sum of</hi> 3490 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d. upon the Ex<g ref="char:EOLhyphen"/>cize</hi>
+               <pb n="9" facs="tcp:206003:6"/>
+               <hi>in course, unto <hi>Robert English</hi> and Mr. <hi>Finlow.</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for In<g ref="char:EOLhyphen"/>corporation, Continuance, and Maintenance of the Hospital commonly called the Hospital of St. <hi>Kathe<g ref="char:EOLhyphen"/>rines</hi> in <hi>Ledbury</hi> under <hi>Malvern</hi> in the County of <hi>Here<g ref="char:EOLhyphen"/>ford:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance touch<g ref="char:EOLhyphen"/>ing the Accompts of <hi>Mary Sankey</hi> the Relict of <hi>Robert Sankey:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Stating the Accompts of Colonel <hi>Richard Lawrence,</hi> and allowing the same upon Irish Lands:</hi>
+            </p>
+            <p>And one other Ordinance also made in the same year 1654. Entituled, <hi>An Ordinance for Set<g ref="char:EOLhyphen"/>ting forth Lands in <hi>Ireland</hi> unto the Committee for Claims at Grocers Hall, in satisfaction of</hi> 2621 <hi>l.</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Set<g ref="char:EOLhyphen"/>ling Lands in <hi>Ireland</hi> of</hi> 300 <hi>l. <hi>per Annum</hi> upon Ge<g ref="char:EOLhyphen"/>neral <hi>William Penn</hi> and his heirs:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Continuing the Alms men and Alms-houses at New<hi>-Windsor:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Set<g ref="char:EOLhyphen"/>ling Lands in <hi>Ireland</hi> upon Commiss. Gen. <hi>Reignolds,</hi> of</hi> 500 <hi>l. <hi>per Annum.</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for the more equal division of the Lands alotted to the Soldi<g ref="char:EOLhyphen"/>ers in <hi>Ireland:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the
+<pb n="10" facs="tcp:206003:7"/> same year 1654. Entituled, <hi>An Additional Ordi<g ref="char:EOLhyphen"/>nance for the satisfaction of the Arrears due to Widows and Orphans, and Maimed Soldiers in <hi>Ireland:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Additional Ordi<g ref="char:EOLhyphen"/>nance to the Ordinance appointing Commissioners for Approbation of Publique Preachers:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled. <hi>An Ordinance for Re<g ref="char:EOLhyphen"/>viving the Jurisdiction of the County Palatine of <hi>Lan<g ref="char:EOLhyphen"/>caster,</hi> and for holding Assize there:</hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance appoint<g ref="char:EOLhyphen"/>ing who shall be Justices of Assize for the County Palatine of <hi>Lancaster:</hi>
+               </hi>
+            </p>
+            <p>And also one other Ordinance made in the same year 1654. Entituled, <hi>An Ordinance for Reviving the Court of the Dutchy of <hi>Lancaster:</hi>
+               </hi>
+            </p>
+            <p>And one Act made in the year 1653. Entitu<g ref="char:EOLhyphen"/>led, <hi>An Additional Act for Stating and Determining the Accompts of the Officers and Soldiers of the Army in <hi>Ireland:</hi>
+               </hi>
+            </p>
+            <p>And also one other Act made in the same year 1653. Entituled, <hi>An Explanatory Additional Act for the Sale of the Remaining Fee-Farm-Rents, and the finishing of that whole Affair:</hi>
+            </p>
+            <p>And also one other Act made in the same year 1653. Entituled. <hi>An Act concerning the Plan<g ref="char:EOLhyphen"/>ters of Tobacco:</hi>
+            </p>
+            <p>And also one other Act made in the same year 1653. Entituled, <hi>An Act for the speedy and effectual satisfaction of the Adventurers for Lands in <hi>Ireland,</hi> and of the Arrears due to the Sol<g ref="char:EOLhyphen"/>diers there, and of other Publick Debts, and for the encouragement of Protestants to Plant and Inhabit <hi>Ireland:</hi>
+               </hi>
+            </p>
+            <pb n="11" facs="tcp:206003:7"/>
+            <p> And also one other Act made in the same year One thousand six hundred fifty and three, En<g ref="char:EOLhyphen"/>tituled, <hi>An Act impowring the Committee for the Ar<g ref="char:EOLhyphen"/>my, to state and determine the Accounts of all Offi<g ref="char:EOLhyphen"/>cers and Souldiers and others imployed by them, for Moneys by them received from the six and twenti<g ref="char:EOLhyphen"/>eth day of <hi>March,</hi> One thousand six hundred forty se<g ref="char:EOLhyphen"/>ven untill the five and twentieth day of <hi>July,</hi> One thousand six hundred fifty and three:</hi>
+            </p>
+            <p>And also one other Act made in the year one thousand six hundred fifty three, Entituled, <hi>An Act for Regulating the making of Stuffs, in <hi>Nor<g ref="char:EOLhyphen"/>folk</hi> and <hi>Norwich;</hi>
+               </hi>
+            </p>
+            <p>Also one other Act made in the same year One thousand six hundred fifty three, Entituled, <hi>An Act to Admit <hi>Charlot</hi> Countess Dowager of <hi>Darby,</hi> to composition, and for one thousand pounds to be given to <hi>Robert Massey</hi> for satisfaction of his losses:</hi>
+            </p>
+            <p>And also one other Act made in the same year One thousand six hundred fifty three, Entituled, <hi>An Act to enable <hi>Robert Peyton</hi> Esq; and <hi>Algernon Peyton</hi> his Brother to make Sale of part of their Lands to pay their Debts:</hi>
+            </p>
+            <p>And also one other Act made in the same year One thousand six hundred fifty three, Entituled, <hi>An Act to enable <hi>Ferdinando</hi> Earl of <hi>Huntington</hi> to sell some Lands for payment of his own debts and his Fa<g ref="char:EOLhyphen"/>thers, and to restrain him from making Leases of other Lands to the prejudice of his Issue:</hi>
+            </p>
+            <p>And also one other Act made in the same year One thousand six hundred fifty three, Entituled, <hi>An Act for setling Lands, late of <hi>James</hi> Earl of <hi>Darby,</hi> of the yearly value of five hundred pounds upon <hi>Charls</hi> Earl of <hi>Derby</hi> and his heirs:</hi>
+            </p>
+            <p>And one Ordinance made in the year One thousand six hundred fifty three, Entituled, <hi>An</hi>
+               <pb n="12" facs="tcp:206003:8"/>
+               <hi>Ordinance appointing Commissioners, for approba<g ref="char:EOLhyphen"/>tion of Publique Preachers:</hi>
+            </p>
+            <p>And one other Ordinance made in the year One thousand six hundred fifty four, Entituled, <hi>An Ordinance of Pardon and Grace to the People of <hi>Scotland:</hi>
+               </hi>
+            </p>
+            <p>And one other Ordinance made in the same year One thousand six hundred fifty four, Enti<g ref="char:EOLhyphen"/>tuled, <hi>An Ordinance for setling the Estates of several Persons in <hi>Scotland,</hi> in Trustees, to the uses herein ex<g ref="char:EOLhyphen"/>pressed:</hi>
+            </p>
+            <p>Together with all Acts and Ordinances, touching the Customes, and the preservation thereof, And all Acts and Ordinances, touching the Excise and Regulation thereof, And also one clause conteyned in an Order and Declara<g ref="char:EOLhyphen"/>tion of His Highness and the Council, dated the eighth day of <hi>February,</hi> One thousand six hundred fifty four, Entituled, <hi>An Order and Declaration of His Highness the Lord Protector, with the advice of his Council, touching the Continuance of the Duty of Excise &amp; new Impost,</hi> which Clause beginneth with these words, <hi>viz. <hi>That the several Acts and Ordi<g ref="char:EOLhyphen"/>nances, and Orders relating to the Excise,</hi> &amp;c.</hi> and continueth to the end of the said Order and Declaration; And also all Orders and Decla<g ref="char:EOLhyphen"/>rations of His Highness with the advice of the Council, touching the duties of Cu<g ref="char:EOLhyphen"/>stomes, and Excise and new Impost in <hi>Scotland</hi> and <hi>Ireland,</hi> and the preservation thereof; And all Acts and Ordinances, and also all Orders and Declarations of His Highness the Lord Protector with the consent of the Council, re<g ref="char:EOLhyphen"/>lating to the Committee of the Army, and Treasurers at War: And all and every the Branches, Sentences and Words in the same
+<pb n="13" facs="tcp:206003:8"/> severally contained, Shall be and are hereby continued and confirmed, and shall stand and be in full force and strength, to all Intents and Purposes, any matter or thing to the Contrary notwithstanding.</p>
+            <p>And be it further Enacted by the Authority aforesaid; That so much, and such part onely and no more, of one Ordinance made in the year One thousand six hundred fifty four, Entituled, <hi>An Ordinance for the better support of the Universities in <hi>Scotland,</hi> and encouragement of Publique Preachers there,</hi> as concerns the better support of the V<g ref="char:EOLhyphen"/>niversities in <hi>Scotland,</hi> shall be and is hereby con<g ref="char:EOLhyphen"/>tinued and confirmed, and shall stand and be in full force and strength.</p>
+            <p>And that one Ordinance made in the year One thousand six hundred fifty four, Entituled, <hi>An Ordinance for Sale of four Forests or Chases, reser<g ref="char:EOLhyphen"/>ved for Collateral Security to the Souldiers, which provides to Secure the right of the State in those Lands so disposed of to the Souldiers,</hi> Be and is hereby likewise continued and confirmed, and is to stand and be in full force and strength, except all powers, given by certain instructions made by His Highness by advice of His Council in pur<g ref="char:EOLhyphen"/>suance thereof, for determining the Rights of the Proprietors and Commoners, of the said Forests, which are hereby declared Null and void. Provided nevertheless and be it Enacted by the Authority aforesaid, that the persons hereafter named, be hereby constituted Commis<g ref="char:EOLhyphen"/>sioners respectively for the Surveying the Forests and Chases hereafter mentioned, That is to say, <hi>Joseph Ayloffe, Thomas Skipwith, Jeremy Baynes, Adam Ayre,</hi> Esqs; <hi>James Robinson,</hi> and <hi>William M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> Gent. for the Forest of <hi>Sherwood:</hi>
+               <pb n="14" facs="tcp:206003:9"/>
+               <hi>Robert Frank, John Kensey, Thomas Wats,</hi> Esqs; and <hi>George Sergeant</hi> Gent. for the Forest or Chase of <hi>Needwood: James Stedman, Robert Tayler, Thomas Tanner,</hi> Esqs; and <hi>John Halsey</hi> Gent. for the Forest or Chase of <hi>Kingswood: Henry Dewel, William Dawgs, Joseph Gammage</hi> Esqs; and <hi>Richard Johnson</hi> Gent. for the Forest or Chase of <hi>Ashdown</hi> and <hi>Lancaster</hi> great Park: <hi>John Boynton, Hugh Web,</hi> Esqs; <hi>Major Rolph,</hi> and <hi>Nicholas Gunton</hi> Gent. for <hi>Enfield</hi> Chase; and shall proceed and Act upon such claimes as have been formerly put in before any Commissioners appointed under the great Seal of <hi>England,</hi> for surveying the said Forest and Chases, since the thirtieth of <hi>August</hi> One thousand six hundred fifty four, or upon any claimes that shall be put in before the said re<g ref="char:EOLhyphen"/>spective Commissioners, before the twentieth day of <hi>July,</hi> next ensuing, according to such in<g ref="char:EOLhyphen"/>structions as shall be agreed upon in and by this present Parliament. And be it further Enacted that the Lord <hi>Lambert,</hi> General <hi>Disbrow,</hi> Co<g ref="char:EOLhyphen"/>lonel <hi>Sydenham,</hi> Sir <hi>Gilbert Gerrard</hi> Knight, <hi>John Trever,</hi> and <hi>Josias Bernars,</hi> Esqs; or any four of them, be and shall be a Committee of ap<g ref="char:EOLhyphen"/>peal, who shall have power to Act and do in all things as in the said Instructions shall be declared.</p>
+            <p>And be it further Enacted by the Authority aforesaid; That one Act made in the year One thousand six hundred fifty three, Entituled <hi>An Act touching Mariages and the Registring thereof, and also touching Births, and Burials, and all and every the Branches, Clauses, and words therein conteyned,</hi> ex<g ref="char:EOLhyphen"/>cept onely one clause in these words following <hi>(viz.) And no other Mariage whatsoever, within the Commonwealth of <hi>England,</hi> after the nine and twentieth</hi>
+               <pb n="15" facs="tcp:206003:9"/>
+               <hi>of <hi>September,</hi> in the year of our Lord One thousand six hundred fifty three, shall be held o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> accounted <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mariage according to the Laws of <hi>England,</hi>
+               </hi> (which is hereby declared Null and void,) shall be and is hereby continued and confirmed, and is to stand and be in full force and strength, for six Moneths, from and after the end of the first Session of this present Parliament:</p>
+            <p>And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foresaid, that one Ordinance made in the year One thousand six hundred fifty four, Entituled, <hi>An Ordinance for the ejection of Scandalous, Ignorant and insufficient Ministers and School-masters,</hi> Be and is hereby confirmed, and continued for three years from and after the end of the first Session of this present Parliament.</p>
+            <p>And one other Ordinance Entituled, <hi>An Or<g ref="char:EOLhyphen"/>dinance for appointing Visitors for the Universities;</hi> shall be and is hereby confirmed, and continued for six Moneths from and after the end of the first Session of this present Parliament.</p>
+            <p>And one other Ordinance Entituled, <hi>An Ordi<g ref="char:EOLhyphen"/>nance for the better Regulating and Limiting of the Jurisdiction of the Court of Chancery,</hi> shall be and is hereby confirmed, and continued, and shall stand and be in full force and strength until the end of this present Parliament, and no longer.</p>
+            <p>And one Act made the twentie first day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> One thousand six hundred forty nine, Entituled, <hi>An Act for discharging from Imprison<g ref="char:EOLhyphen"/>ment poor Prisoners unable to satisfie their Oreditors:</hi>
+            </p>
+            <p>And also one Act made the sixth day of <hi>April,</hi> One thousand six hundred and fifty, Entituled, <hi>An Additional Act for the further ease and relief of poor prisoners,</hi> Be and are hereby revived and continu<g ref="char:EOLhyphen"/>ed in force for twelve moneths, from the four
+<pb n="16" facs="tcp:206003:10"/> and twentieth day of <hi>June,</hi> One thousand six hundred fifty seven, as to such persons that are, or shall be in prison within that time.</p>
+            <p>And that one Act heretofore had and made, Entituled, <hi>An Act for redress of Delays and Mis<g ref="char:EOLhyphen"/>chiefs arising by Writs of Errour, and Writs of False Judgment in several Cases,</hi> published in print the fourth day of <hi>November,</hi> in the year of our Lord God, One thousand six hundred fifty and three, shall be, and is hereby ratified and con<g ref="char:EOLhyphen"/>firmed.</p>
+            <p>And that one other Act heretofore had and made, Entituled, <hi>An Act for the taking away Fines upon Bills, Declarations, and Original Writs,</hi> pub<g ref="char:EOLhyphen"/>lished in print the second day of <hi>August,</hi> in the year of our Lord God, One thousand six hun<g ref="char:EOLhyphen"/>dred fifty and three abovesaid, shall be, and is hereby ratified and confirmed.</p>
+            <p>Provided always, that any thing in the said last mentioned Act contained, shall not extend to the taking away of any Fines or Post Fines for Alienations upon Writs of Covenant, or Writs of Entry, and other Writs.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That one other Ordinance made in the year One thousand six hundred fifty and four, Entituled, <hi>An Ordinance for the better re<g ref="char:EOLhyphen"/>dress of the Abuses committed upon the River of <hi>Thames,</hi> and Waters of <hi>Medway.</hi>
+               </hi> shall be, and is hereby continued and confirmed, and shall stand and be in full force and strength for the space of three years, from the end of this Ses<g ref="char:EOLhyphen"/>sion of Parliament, Saving the Rights of all Bodies Politick and Corporate; and of all other person and persons whatsoever.</p>
+            <pb n="17" facs="tcp:206003:10"/>
+            <p> And be it further Enacted by the Authority aforesaid, That for the better and more effectu<g ref="char:EOLhyphen"/>al execution of the said Ordinance for <hi>Ejecting of scandalous, ignorant, and insufficient Ministers and School-masters,</hi> It shall and may be lawfull to and for His Highness the Lord Protector, by and with the advice of the Council, to nominate and appoint an Additional Supply of persons to be Commissioners, and of Ministers to be as<g ref="char:EOLhyphen"/>sistant to the said Commissioners in the several and respective Counties, who shall be and are hereby authorized and impowred for carrying on the ends of the said Ordinance to all intents and purposes, as if they had been herein par<g ref="char:EOLhyphen"/>ticularly named.</p>
+            <p>Provided alwaies, that all and every the Commissioners, who, in pursuance of the Or<g ref="char:EOLhyphen"/>dinance before mentioned, Entituled, <hi>An Ordi<g ref="char:EOLhyphen"/>nance appointing Commissioners for Approbation of publick Preachers,</hi> shall hereafter in the inter<g ref="char:EOLhyphen"/>vals of Parliament be named or appointed, shall be afterwards approved by the next succeeding Parliament.</p>
+            <p>Provided also, that nothing contained in the Ordinance before mentioned, Entituled, <hi>An Or<g ref="char:EOLhyphen"/>dinance of Pardon and Grace to the people of <hi>Scotland,</hi>
+               </hi> shall be construed to impeach or invalidate any Articles granted by the Commander in chief of the Forces in <hi>Scotland▪</hi> for the time being, to any of the persons therein named or comprised, and which Articles have since been approved of by His Highness and the Council.</p>
+            <p>And be it further Enacted by the Authori-aforesaid, that one Order made by His Highness the Lord Protector and the Council, bearing date the 13. of <hi>November;</hi> 1656. and
+<pb n="18" facs="tcp:206003:11"/> relating to the said last mentioned Ordinance, Entituled, <hi>An Ordinance of Pardon and Grace to the people of <hi>Scotland;</hi>
+               </hi> And to one other Ordi<g ref="char:EOLhyphen"/>nance before mentioned, Entituled, <hi>An Ordinance for setling the Estates of several persons in <hi>Scotland</hi> in Trustees, for the uses herein expressed,</hi> shall be, and is hereby continued and confirmed, and shall stand, and be in full force and strength.</p>
+            <p>Provided, that nothing in the said Order shall extend, or be construed to extend, to im<g ref="char:EOLhyphen"/>peach the right or possession of any person or persons, of his or their Donatives, untill he or they have received just satisfaction; as is ex<g ref="char:EOLhyphen"/>pressed in the said Order: The first Moyety to be paid upon the first day of <hi>Jude,</hi> One thou<g ref="char:EOLhyphen"/>sand six hundred fifty seven, and then, or before, security be given to the said parties, to their content and good liking, for the payment of the latter Moyety upon the first day of <hi>October</hi> next following.</p>
+            <p>Provided also, that the rest of the moneys payable by the said Order, be paid, the first Moy<g ref="char:EOLhyphen"/>ety, on or by the said first day of <hi>June,</hi> One thousand six hundred fifty seven, and the other Moyety, on or before the said first day of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> then next following.</p>
+            <p>Provided also, that <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Countess of <hi>Lo<g ref="char:EOLhyphen"/>therdale</hi> shall have no benefit by the said Order, unless she shall within six moneths after the first day of <hi>May,</hi> One thousand six hundred fifty se<g ref="char:EOLhyphen"/>ven, release all her Right, Title, and Inter<g ref="char:EOLhyphen"/>est, in any other Lands or Estate in <hi>Scotland,</hi> claimed by her by way of Iointure.</p>
+            <p>Provided also, that the Wife or Wives, or children, mentioned in the Ordinance before mentioned, Entituled, <hi>An Ordinance for setling</hi>
+               <pb n="19" facs="tcp:206003:11"/>
+               <hi>the Estates of several persons in the hands of Trustees, for the uses herein expressed;</hi> or in the other Ordinance before mentioned, Entituled, <hi>An Ordinance of Pardon and Grace to the People of <hi>Scotland,</hi>
+               </hi> who are required to release their claims out of the confiscated Estates; shall have six moneths time, from and after the said first day of <hi>May,</hi> One thousand six hundred fif<g ref="char:EOLhyphen"/>ty seven, to make and give such Release; which Release shall be, and is hereby declared to be as effectual, as if the same had been made within the time limited for the same.</p>
+            <p>And it is further Enacted by the Authority aforesaid, that all other Acts and Ordinances, and every branch and clause therein contained, not confirmed by these presents, which have been made or passed between the twentieth day of <hi>April,</hi> One thousand six hundred fifty three, and the seventeenth day of <hi>September,</hi> One thou<g ref="char:EOLhyphen"/>sand six hundred fifty six, be, and they are here<g ref="char:EOLhyphen"/>by declared to be, from and after the first day of <hi>July,</hi> One thousand six hundred fifty seven, ab<g ref="char:EOLhyphen"/>solutely null and void.</p>
+            <p>And that all Acts done or to be done, before the said first day of <hi>July,</hi> One thousand six hun<g ref="char:EOLhyphen"/>dred fifty seven, by virtue of, or in pursuance of the said Acts and Ordinances, or any of them, be, and they are hereby declared to be good and effectual in Law to all intents and purposes. And all persons, who have acted up<g ref="char:EOLhyphen"/>on, or in the execution of any the said Acts and Ordinances, or, who have enjoyed or do enjoy any lawfull advantage or priviledge, by any Iudgement given, or Act done, by virtue of a<g ref="char:EOLhyphen"/>ny the said Acts or Ordinances, shall be, and they are hereby declared to be for ever secured
+<pb n="20" facs="tcp:206003:12"/> and Indempnified therein, as fully as if the said Acts and Ordinances, had been and still had continued Laws in full force and strength; any Law, Statute, Vsage, or other matter or thing to the contrary in any wise notwithstanding.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That the Orders of Parliament, or either house of Parliament, begun at <hi>Westminster</hi> the third of <hi>November</hi> One thousand six hundred and forty, for the granting or setting forth land upon Oath to Sir <hi>Charls Coot,</hi> Lieutenant Ge<g ref="char:EOLhyphen"/>neral <hi>Michael Jones,</hi> Sir <hi>John Reynolds,</hi> Colonel <hi>Jerome Sanchy,</hi> Sir <hi>George Aiscue,</hi> Doctor <hi>Henry Jones,</hi> the relict of Sir <hi>Symon Harecourt,</hi> and the relict of Colonel <hi>Benjamin Blundell,</hi> shall be and are hereby declared to stand in force to all in<g ref="char:EOLhyphen"/>tents and purposes.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>Iohn Field,</hi> Printers to His Highness the Lord PROTECTOR, 1657.</p>
+            <pb facs="tcp:206003:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
